@@ -1,14 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@700&display=swap");
+
 .app-header {
- 
 }
 
 .app-header h1 {
   /* width: 150px;
   height: 150px; */
-  font-size: 26px;
+  font-size: 35px;
+  font-style: normal;
+  font-family: "Dancing Script", cursive;
 }
 
 .app-header h2 {
-  font-size: 1.2rem;
-  color: grey;
+  font-size: 35px;
+  color: rgb(51, 51, 51);
+  position: absolute;
+  right: 370px;
+  font-family: "Yanone Kaffeesatz", sans-serif;
 }
